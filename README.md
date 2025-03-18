@@ -20,9 +20,14 @@ Palabras clave: JavaScript, Node.js, HTML5, Tailwind CSS, React, Git, GitHub, Vi
 </div>
 
 <h3>Puedes encontrarme en:</h3>
-<div>
-<a href = "https://www.linkedin.com/in/v%C3%ADctor-espinoza-89608471/"><img src = "https://img.icons8.com/ios-filled/40/ffffff/linkedin.png"></a>
-<a href = "mailto:espinozagallegosvictor@gmail.com"><img src = "https://img.icons8.com/ios-filled/40/ffffff/secured-letter--v1.png"></a>  
+<div style = "display: flex; flex-direction: column">
+  <div>
+    <a href = "https://www.linkedin.com/in/v%C3%ADctor-espinoza-89608471/"><img src = "https://img.icons8.com/ios-filled/20/ffffff/linkedin.png">Perfil LinkedIn </a>
+  </div>
+  
+  <div>
+    <a href = "mailto:espinozagallegosvictor@gmail.com"><img src = "https://img.icons8.com/ios-filled/20/ffffff/secured-letter--v1.png">espinozagallegosvictor@gmail.com</a>  
+  </div>
 </div>
 
 <h2> Datos de GitHub </h2>
