@@ -33,10 +33,14 @@ Palabras clave: JavaScript, Node.js, HTML5, Tailwind CSS, React, Git, GitHub, Vi
 <h2> Datos de GitHub </h2>
 <div>
   
-![vespinozagallegos's Stats](https://github-readme-stats.vercel.app/api?username=vespinozagallegos&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
-![vespinozagallegos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vespinozagallegos&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+![vespinozagallegos's Stats](https://github-readme-stats.vercel.app/api?username=vespinozagallegos&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![vespinozagallegos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vespinozagallegos&theme=vue-dark&hide_border=true)
+
+<!--![vespinozagallegos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vespinozagallegos&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+-->
 </div>
-:( Failed to retrieve contributions. This is likely a GitHub API issue
+
 
 
 <!--
