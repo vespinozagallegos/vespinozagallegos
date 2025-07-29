@@ -6,8 +6,7 @@ Desarrollador Full Stack de [Henry](https://www.soyhenry.com/), con mas horas de
 
 - También soy Diseñador Industrial y Carpintero autodidacta.
 - Estoy en busca de mi primer trabajo en TI
-- Actualmente estoy aprendiendo Nest JS para reforzar conocimientos de BackEnd
-- Hobbies: Andar en bicicleta, caminar, escribir, dibujar patrones, leer, ver fútbol, ver series y streaming's de youtube.
+- Hobbies: Andar en bicicleta, caminar, dibujar patrones y leer de vez en cuando.
 
 <h3>Tech Skills </h3>
 
